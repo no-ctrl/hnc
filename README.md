@@ -1,14 +1,9 @@
-# hnc
+# Hacker News Clone Demo
 
-This template should help get you started developing with Vue 3 in Vite.
 
-## Recommended IDE Setup
+https://github.com/user-attachments/assets/c5045305-6be4-47ad-89c2-2af7e6aa5923
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
 
-## Customize configuration
-
-See [Vite Configuration Reference](https://vite.dev/config/).
 
 ## Project Setup
 
